@@ -5,6 +5,8 @@ Doesn't include scripts for using skills in Tower Testing, since they should be 
 
 Doesn't include scripts that is made to pair with another existing script.
 
+Doesn't include scripts that I think is too useless.
+
 All scripts are sorted based on their category, then release date.
 
 ## Format
