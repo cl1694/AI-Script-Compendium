@@ -10,7 +10,7 @@ All scripts are sorted based on their category, then release date.
 ## Format
 ```
 ## [script topic]
-# [script name] by [script author]([script dependence]), ([script count]/[max action line])
+### [script name] by [script author]([script dependence]), ([script count]/[max action line])
 [basic introduction, optional]
 [discord post link] [other links]
 ```
