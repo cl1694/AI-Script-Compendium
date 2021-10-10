@@ -12,10 +12,15 @@ All scripts are sorted based on their category, then release date.
 ## Format
 ```
 ## [script topic]
-### [script name] by [script author]([script dependence]), ([script count]/[max action line])
+### [script name] by [script author]([script special]), ([script count]/[max action line])
 [basic introduction, optional]
 [discord post link] [other links]
 ```
+### Script Special List
+- `Turbo vX`: Requires having the Turbo Exec vX pack imported and enabled.
+- `Turbo vX Opt`: This script work without Turbo exec vX, but work faster if it is used.
+- `Parallels`: This script accelerates itself by calling multiple instances of itself, faster than normal script but usually not as fast as turbo.
+- `Turbo Own`: This script uses own build-in Turbo exec version to accelerate, therefore it isn't working with Turbo exec v1 enabled.
 
 ## Links
 [Turbo exec v1(execution pack)](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/execution_stack/README.md)
