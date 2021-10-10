@@ -1,7 +1,9 @@
 # AI-Script-Compendium
 Here is a list of all script that is posted in `#ai-scripts` channel in the FSS Discord Server.
 
-Scripts for using skills in Tower Testing are not included, since they should be paired with a certain bp to use.
+Doesn't include scripts for using skills in Tower Testing, since they should be paired with a certain bp to use.
+
+Doesn't include scripts that is made to pair with another existing script.
 
 All scripts are sorted based on their category, then release date.
 
