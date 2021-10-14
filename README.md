@@ -14,11 +14,11 @@ If you feel like your script should be added in the list, create a github issue 
 ## Format
 ```
 ## [script topic]
-### [script name] by [script author]([script special]), ([script count]/[max action line])
+### [script name or usage] by [script author]([script special tags, if any]), ([script count]/[max action line])
 [basic introduction, optional]
 [discord post link] [other links]
 ```
-### Script Special List
+### Script Special Tag List
 - `Turbo vX`: Requires having the Turbo Exec vX pack imported and enabled.
 - `Turbo vX Opt`: This script work without Turbo exec vX, but work faster if it is used.
 - `Parallels`: This script accelerates itself by calling multiple instances of itself, faster than normal script but usually not as fast as turbo.
@@ -29,9 +29,9 @@ If you feel like your script should be added in the list, create a github issue 
 
 [d0sboots' external editor](https://d0sboots.github.io/perfect-tower)
 
-[Turbo exec v1(execution pack)](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/execution_stack/README.md)
+[Turbo exec v1(aka execution pack)](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/execution_stack/README.md)
 
 [Turbo exec v2](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/turbo_exec/README.md)
 
 ## Updates
-All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/896785928742395904) is added to the list.
+All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/897973556388958208) is added to the list.
