@@ -1,5 +1,5 @@
 ## Powerstone crafting
-#### Powerstone crafter by Ham5terzilla(Parallels), (8/15)
+#### Powerstone crafter by Ham5terzilla(Parallels, Turbo Own), (8/15)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/850453075693142036)
 [Github Link](https://github.com/Ham5terzilla/TPT2-museum-script-by-Ham5terzilla)
 
