@@ -63,3 +63,9 @@ Also my script! Try it, it's really fun.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/893704466681974834)
 [Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/YASPTDRS/README.md)
+
+#### Powerstone sort by cl1694(Turbo v2 opt), (3/22)
+Something i made that's actually useful.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/901461967812845658)
+[Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/Powerstone%20sort/README.md)
