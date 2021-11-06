@@ -13,10 +13,10 @@ If you feel like your script should be added in the list, create a github issue 
 
 ## Format
 ```
-## [script topic]
-### [script name or usage] by [script author]([script special tags, if any]), ([script count]/[max action line])
+## [script category]
+#### [script name or usage] by [script author]([script special tags, if any]), ([script count]/[max action line])
 [basic introduction, optional]
-[discord post link] [other links]
+[discord post link] [other links if any]
 ```
 ### Script Special Tag List
 - `Turbo vX`: Requires having the Turbo Exec vX pack imported and enabled.
@@ -24,7 +24,7 @@ If you feel like your script should be added in the list, create a github issue 
 - `Parallels`: This script accelerates itself by calling multiple instances of itself, faster than normal script but usually not as fast as turbo.
 - `Turbo Own`: This script uses own build-in Turbo exec version to accelerate, therefore it isn't working with Turbo exec v1 enabled.
 
-## Links
+## Tool Links
 [Kyromyr's external editor](https://kyromyr.github.io/perfect-tower)
 
 [d0sboots' external editor](https://d0sboots.github.io/perfect-tower)
@@ -34,4 +34,4 @@ If you feel like your script should be added in the list, create a github issue 
 [Turbo exec v2](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/turbo_exec/README.md)
 
 ## Updates
-All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/897973556388958208) is added to the list.
+All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/904485213965525093) is added to the list.
