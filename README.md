@@ -34,4 +34,4 @@ If you feel like your script should be added in the list, create a github issue 
 [Turbo exec v2](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/turbo_exec/README.md)
 
 ## Updates
-All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/904485213965525093) is added to the list.
+All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/908725360689025044) is added to the list.
