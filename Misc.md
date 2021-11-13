@@ -54,6 +54,7 @@ Something i made that's actually useful.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/901461967812845658)
 [Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/Powerstone%20sort/README.md)
 
-#### Trash Factory Item by IgneousRed, (1/15)
-[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/908725360689025044)
-[Github Link](https://github.com/IgneousRed/PerfectTower#trash)
+#### Trash Factory Item by IgneousRed, (2/12,1/13)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/908909948132556831)
+[Github Link 1](https://github.com/IgneousRed/PerfectTower/blob/main/README.md#trashsimple)
+[Github Link 2](https://github.com/IgneousRed/PerfectTower/blob/main/README.md#trashspecific)
