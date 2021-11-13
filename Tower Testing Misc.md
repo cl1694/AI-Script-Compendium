@@ -10,7 +10,7 @@
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/871133616053321729)
 [Github Link](https://github.com/pkp24/TPT2/tree/main/Auto_90_Infs)
 
-#### Inf Push script by Yoshi, (4-13/22)
+#### Inf Push script by Yoshi128986, (4 or 5-16/1)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/871475553285316719)
 [Github Link](https://github.com/Yoshi128986/Inf-pushing-scripts)
 
