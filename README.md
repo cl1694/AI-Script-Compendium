@@ -18,6 +18,12 @@ If you feel like your script should be added in the list, create a github issue 
 [basic introduction, optional]
 [discord post link] [other links if any]
 ```
+
+Script count and max action line can be an interval(written as `xx-yy`), means that there are different variants of the script, while the one with minimum amount of count/action has `xx` of that and one with maximum amount has `yy`.
+
+Note that both of the two numbers can be displayed in the interval form, which means that a format of `(2-3/12-14)` is possible.
+
+If the difference between the versions are large, use commas for noting the value(for example, `2/12,1/13`).
 ### Script Special Tag List
 - `Turbo vX`: Requires having the Turbo Exec vX pack imported and enabled.
 - `Turbo vX Opt`: This script work without Turbo exec vX, but work faster if it is used.
