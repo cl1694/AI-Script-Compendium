@@ -23,7 +23,7 @@ Script count and max action line can be an interval(written as `xx-yy`), means t
 
 Note that both of the two numbers can be displayed in the interval form, which means that a format of `(2-3/12-14)` is possible.
 
-If the difference between the versions are large, use commas for noting the value(for example, `2/12,1/13`).
+If the difference between the versions are large, do the values in different brackets(for example, `(2/12) / (1/13)`).
 ### Script Special Tag List
 - `Turbo vX`: Requires having the Turbo Exec vX pack imported and enabled.
 - `Turbo vX Opt`: This script work without Turbo exec vX, but work faster if it is used.
