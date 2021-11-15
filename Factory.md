@@ -40,7 +40,7 @@ All.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/852367732783841312)
 
 ## Others
-#### Trash Factory Item by IgneousRed, (1:2/12,2:1/7)
+#### Trash Factory Item by IgneousRed, (2/12) / (1/7)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/908909948132556831)
 [Github Link 1](https://github.com/IgneousRed/PerfectTower/blob/main/README.md#trashsimple)
 [Github Link 2](https://github.com/IgneousRed/PerfectTower/blob/main/README.md#trashspecific)
