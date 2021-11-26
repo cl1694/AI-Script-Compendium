@@ -29,3 +29,6 @@
 #### Powerstone crafter by AtomicVaper, (3/17)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/902369915334426654)
 [Steam Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2634242368)
+
+#### Universal gem crafter by Manavine, (1/21)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/913618034474754158)
