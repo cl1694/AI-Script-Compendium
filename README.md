@@ -1,4 +1,7 @@
 # AI-Script-Compendium
+
+**Note: This compendium is used for quick script looking up. Refer to the links for how the script exactly does and its special requirement.**
+
 Here is a list of all script that is posted in `#ai-scripts` channel in the FSS Discord Server.
 
 Doesn't include scripts for using skills in Tower Testing, since they should be paired with a certain bp to use.
@@ -8,8 +11,6 @@ Doesn't include scripts that is made to pair with another existing script.
 Doesn't include scripts that I think is too useless. In other words, scripts that can be made in a minute, and don't work better than other similar scripts.
 
 All scripts are sorted based on their category, then release date.
-
-If you feel like your script should be added in the list, create a github issue with your script link(no export code).
 
 ## Format
 ```
@@ -24,6 +25,7 @@ Script count and max action line can be an interval(written as `xx-yy`), means t
 Note that both of the two numbers can be displayed in the interval form, which means that a format of `(2-3/12-14)` is possible.
 
 If the difference between the versions are large, do the values in different brackets(for example, `(2/12) / (1/13)`).
+
 ### Script Special Tag List
 - `Turbo vX`: Requires having the Turbo Exec vX pack imported and enabled.
 - `Turbo vX Opt`: This script work without Turbo exec vX, but work faster if it is used.
