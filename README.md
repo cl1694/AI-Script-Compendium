@@ -42,4 +42,4 @@ If the difference between the versions are large, do the values in different bra
 [Turbo exec v2](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/turbo_exec/README.md)
 
 ## Updates
-All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/908909948132556831) is added to the list.
+All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/920444639574642700) is added to the list.
