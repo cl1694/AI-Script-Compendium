@@ -53,3 +53,7 @@ Something i made that's actually useful.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/901461967812845658)
 [Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/Powerstone%20sort/README.md)
+
+#### Click Trainer v2 by cl1694, (2/15)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/920233867003179009)
+[Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/ClickTrainer%20v2/README.md)
