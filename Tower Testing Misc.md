@@ -1,18 +1,18 @@
 ## Auto Pushing
-#### Era 1 Farm by pkp24, (5/21)
+#### Era 1 Farm by pkp24(C2), (5/21)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/850801954435497984)
 [Github Link](https://github.com/pkp24/TPT2/blob/main/Auto_90_Eras/README.md)
 
-#### Inf Push script by Sunny, (1/10)
+#### Inf Push script by Sunny(C0), (1/10)
 Time based.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/861906830670168074)
 
-#### Inf 1 Farm by pkp24, (8/21)
+#### Inf 1 Farm by pkp24(C2), (8/21)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/871133616053321729)
 [Github Link](https://github.com/pkp24/TPT2/tree/main/Auto_90_Infs)
 
-#### Inf Push script by Yoshi128986, (4-5/16)
+#### Inf Push script by Yoshi128986(C1), (4-5/16)
 Time based.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/871475553285316719)
