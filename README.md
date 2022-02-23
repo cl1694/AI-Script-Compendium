@@ -31,10 +31,12 @@ If the difference between the versions are large, do the values in different bra
 - `Turbo vX Opt`: This script work without Turbo exec vX, but work faster if it is used.
 - `Parallels`: This script accelerates itself by calling multiple instances of itself, faster than normal script but usually not as fast as turbo.
 - `Turbo Own`: This script uses own build-in Turbo exec version to accelerate, therefore it isn't working with Turbo exec v1 enabled.
+- `P`: This script pack is organized in a package when imported. May be missing from old scripts that have recieved an update to pack them.
 - `C0`: This script uses fixed-coordinated clicks, therefore only work on a **specific resolution** and dynamic ui settings.
 - `C1`: This script uses regular rel-clicks, therefore work on **any resolution with fixed aspect ratio**(4:3, 16:9, etc.).
 - `C2`: This script uses advanced rel-clicks, and would work properly on **most resolution**(with dynamic ui off). Still have tall/wide screen issue due to the game ui size mechanics.
-- `C3`: Like `C2`, but checks the screen type and should work on **all regular resolution**(usually still with dynamic ui off).
+- `C3`: Like `C2`, but checks the screen type and should work on **all regular resolution**, with ui size at 100%(usually still with dynamic ui off).
+- `C4`: `C3` but with extra ui size support, works at any resolution and any ui size.
 
 Scripts without any of the `Cx` tag doesn't use clicks.
 
