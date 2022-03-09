@@ -15,7 +15,7 @@ Slow Auto. Extension of above.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/943726425662447636)
 
 #### Adventure Full Auto by WellDoneOperator, (17/24)
-Slow Auto.
+Semi-slow Auto.
 
-[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/945828435157213285)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/950513616682119269)
 [Github Link](https://github.com/WellDoneOperator/PerfectTower2Adventure/tree/main)
