@@ -32,3 +32,6 @@
 
 #### Universal gem crafter by Manavine, (1/21)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/913618034474754158)
+
+#### Museum package by Hestern, (7/17)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/950027067016237136)
