@@ -32,6 +32,9 @@ Suggested.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/892037485834690580)
 [Github Link](https://github.com/d0sboots/PerfectTower/blob/main/README.md#turbo-miner)
 
+#### Mining script by NotYourName, (22/8)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/949374519095754802)
+
 ## Asteroid Mining
 #### Asteroid farming by Sunny(C3), (3/11)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/887067222533603379)
