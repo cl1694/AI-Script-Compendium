@@ -23,6 +23,9 @@ Accel based.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/916326734528405524)
 
+#### Auto Push script by Buddy211999(C0), (5/17)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/948694118115184660)
+
 ## Others
 #### Software toggle(Inf) by Coco, (2/6-21)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/907739067851104317)
