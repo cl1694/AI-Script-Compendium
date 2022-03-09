@@ -14,7 +14,7 @@ Slow Auto. Extension of above.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/943726425662447636)
 
-#### Adventure Full Auto by WellDoneOperator, (17/24)
+#### Adventure Full Auto by WellDoneOperator, (25/24)
 Semi-slow Auto.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/950513616682119269)
