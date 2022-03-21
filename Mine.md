@@ -1,4 +1,4 @@
-## Shard Mining
+## Shard Mining(Script)
 #### Mining script by buisnescat, (8/8)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/854441419451138048)
 
@@ -35,6 +35,24 @@ Suggested.
 #### Mining script by NotYourName, (22/8)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/949374519095754802)
 
+#### Mining script by Zombee, (1/24) / (1/15)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/951996266383040532)
+
+#### Mining script by Superbobich, (1/10)
+Use workers.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/952444989437259786)
+
+#### Mining script by KuraTheDog, (1/8)
+Use workers.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/953501282973417472)
+
+#### Mining script by pandistelle, (1/11)
+Use workers.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/953501712331726848)
+
 ## Asteroid Mining
 #### Asteroid farming by Sunny(C3), (3/11)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/887067222533603379)
@@ -47,3 +65,8 @@ Suggested.
 #### Normal and Asteroid farming by Master(C0), (4/16-24)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/889081159823294504)
 [Github Link](https://github.com/master916/TPT2-Scripts/blob/main/README.md)
+
+#### Asteroid farming by Superbobich, (1/14)
+Use workers.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/952444989437259786)
