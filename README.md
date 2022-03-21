@@ -41,13 +41,13 @@ If the difference between the versions are large, do the values in different bra
 Scripts without any of the `Cx` tag doesn't use clicks.
 
 ## Tool Links
-[Kyromyr's external editor](https://kyromyr.github.io/perfect-tower)
+[Kyromyr's external editor](https://kyromyr.github.io/perfect-tower/)
 
-[d0sboots' external editor](https://d0sboots.github.io/perfect-tower)
+[d0sboots' external editor](https://d0sboots.github.io/perfect-tower/)
 
 [Turbo exec v1(aka execution pack)](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/execution_stack/README.md)
 
 [Turbo exec v2](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/turbo_exec/README.md)
 
 ## Updates
-All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/950723229742399528) is added to the list.
+All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/955324155715264552) is added to the list.
