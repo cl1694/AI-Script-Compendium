@@ -35,3 +35,9 @@
 
 #### Museum package by Hestern, (7/17)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/950027067016237136)
+
+#### Powerstone crafter by Vicious Tracker(P), (2/7)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/953613829210787910)
+
+#### Powerstone crafter by NotYourName(P), (3/6)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/954135202530201661)
