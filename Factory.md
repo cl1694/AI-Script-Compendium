@@ -11,7 +11,7 @@ All.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/858424355780427817)
 [Github Link](https://github.com/Xenos6666/TPT2_scripts/blob/main/packages/factory/README.md)
 
-#### Factory package by d0sboots(Turbo v2), (9/16)
+#### Factory package by d0sboots(Turbo v2,P), (9/16)
 **Suggested.** All. Item Groups.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/881924535589425224)
@@ -49,3 +49,6 @@ For gem producers.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/908909948132556831)
 [Github Link 1](https://github.com/IgneousRed/PerfectTower/blob/main/README.md#trashsimple)
 [Github Link 2](https://github.com/IgneousRed/PerfectTower/blob/main/README.md#trashspecific)
+
+#### Craft select UI by HarbingerOfCrazy, (2/7)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/951606605068259398)
