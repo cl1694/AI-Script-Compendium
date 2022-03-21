@@ -52,14 +52,18 @@ Also my script! Try it, it's really fun.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/893704466681974834)
 [Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/YASPTDRS/README.md)
 
-#### Powerstone sort by cl1694(Turbo v2 opt), (3/22)
+#### Powerstone sort by cl1694(Turbo v2 Opt), (3/22)
 Something i made that's actually useful.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/901461967812845658)
 [Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/Powerstone%20sort/README.md)
 
-#### Click Trainer v2 by cl1694, (2/15)
-Probably a better version than d0s'.
+#### Click Trainer v2 by cl1694(Turbo v2 Opt,P), (2/22)
+Probably a better version than d0s'. For making C3/C4 scripts.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/920233867003179009)
 [Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/ClickTrainer%20v2/README.md)
+
+#### Script Benchmarker by d0sboots, (5/13)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/955324155715264552)
+[Github Link](https://github.com/d0sboots/PerfectTower/tree/main/benchmarker)
