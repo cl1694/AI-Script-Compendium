@@ -23,4 +23,5 @@ Semi-slow Auto.
 #### Adventure Full Auto by War131(Turbo v2 Opt,P), (9/17)
 Fast Auto.
 
-[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/955123035621429299)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/955815570496978944)
+[Github Link](https://github.com/xWar131x/TPT2/tree/main/adventure)
