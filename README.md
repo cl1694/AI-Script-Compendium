@@ -50,4 +50,4 @@ Scripts without any of the `Cx` tag doesn't use clicks.
 [Turbo exec v2](https://github.com/Xenos6666/TPT2_scripts/blob/main/common/turbo_exec/README.md)
 
 ## Updates
-All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/955324155715264552) is added to the list.
+All script posted before [this](https://discord.com/channels/488444879836413975/850425171059933272/956669989975359509) is added to the list.
