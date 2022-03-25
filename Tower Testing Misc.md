@@ -38,3 +38,9 @@ Accel based.
 #### Software toggle(Inf) by KnightJR, (2/25)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/916317805668892722)
 [Github Link](https://github.com/KnightJR8413/tpt2_software_scripts/blob/main/README.md)
+
+#### Auto restart by kjolv(P), (4/3)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/956217809283719238)
+
+#### Software toggle by Superbobich(P), (1/18)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/956669989975359509)
