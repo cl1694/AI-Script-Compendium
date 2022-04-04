@@ -43,15 +43,21 @@ Use workers.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/952444989437259786)
 
-#### Mining script by KuraTheDog, (1/8)
+#### Mining script by KuraTheDog(P), (1/8)
 Use workers.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/953501282973417472)
 
-#### Mining script by pandistelle, (1/11)
+#### Mining script by pandistelle(P), (1/11)
 Use workers.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/953501712331726848)
+
+#### Mining script by The4spaceconstants, (1/8)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/957615573653655624)
+
+#### Mining script by Akronymus, (3/7)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959082597332418631)
 
 ## Asteroid Mining
 #### Asteroid farming by Sunny(C3), (3/11)
