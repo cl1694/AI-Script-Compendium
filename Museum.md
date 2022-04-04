@@ -42,6 +42,9 @@
 #### Powerstone crafter by NotYourName(P), (3/6)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/954135202530201661)
 
-### Universal gem crafter by ChrisClark13(Turbo v2), (2/25)
+#### Universal gem crafter by ChrisClark13(Turbo v2), (2/25)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/956261862679404615)
 [Github Link](https://gist.github.com/ChrisClark13/1d1e50731dabaec097dca526995d6fa2)
+
+#### Powerstone crafter by kjolv(P), (4/6)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959125528248479844)
