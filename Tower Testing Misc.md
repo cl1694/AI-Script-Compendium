@@ -26,6 +26,10 @@ Accel based.
 #### Auto Push script by Buddy211999(C0), (5/17)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/948694118115184660)
 
+#### Auto Push script by Yosh2i(C0,P), (9/22)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959659564758888508)
+[Github Link](https://github.com/Yosh2i/AFK-Perfect-Tower-II/blob/main/README.md)
+
 ## Others
 #### Software toggle(Inf) by Coco, (2/6-21)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/907739067851104317)
