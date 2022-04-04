@@ -1,10 +1,8 @@
 ## Clicking helper
 #### Autoclicker by Autosiz, (1/6)
-
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/850435011081535548)
 
 #### Autoclicker by Huskymudkipper(Parallel), (1/11)
-
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/850435464292990977)
 
 #### Autoclicker by d0sboots(Parallel), (1/7)
@@ -24,6 +22,9 @@ For making C3 scripts.
 
 #### 2 spot autoclicker by Hiroko, (1/10)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/890859290259251260)
+
+#### Autoclicker by Xenos(Turbo v2,P), (5/12)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959210390137503824)
 
 ## Real Misc
 #### The Perfect Sudoku by cl1694(Turbo Own,C1), (11/22)
