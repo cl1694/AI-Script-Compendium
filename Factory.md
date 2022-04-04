@@ -52,3 +52,7 @@ For gem producers.
 
 #### Craft select UI by HarbingerOfCrazy, (2/7)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/951606605068259398)
+
+#### Trash Factory Item by dosboots(Turbo v2 Opt,P), (1/12)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959686932055613480)
+[Github Link](https://github.com/d0sboots/PerfectTower/tree/main/auto_trasher)
