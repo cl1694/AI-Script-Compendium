@@ -19,10 +19,6 @@
 #### Universal gem crafter by B0T, (1/23)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/887419622595375164)
 
-#### Powerstone crafter by d0sboots(Turbo v2), (5/14)
-[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/892375264179408926)
-[Github Link](https://github.com/d0sboots/TPT2/blob/te_v2/Museum_Auto_Upgrader/README.md)
-
 #### Powerstone combine by Avery(Turbo v2), (1/8)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/896785928742395904)
 
@@ -48,3 +44,7 @@
 
 #### Powerstone crafter by kjolv(P), (4/6)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959125528248479844)
+
+#### Powerstone crafter by d0sboots(P,Turbo v2), (4/16)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/964034634499358760)
+[Github Link](https://github.com/d0sboots/PerfectTower/blob/main/README.md#museum-combiner-v3)
