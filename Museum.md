@@ -45,6 +45,6 @@
 #### Powerstone crafter by kjolv(P), (4/6)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959125528248479844)
 
-#### Powerstone crafter by d0sboots(P,Turbo v2), (4/16)
+#### Powerstone crafter by d0sboots(P, Turbo v2), (4/16)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/964034634499358760)
 [Github Link](https://github.com/d0sboots/PerfectTower/blob/main/README.md#museum-combiner-v3)
