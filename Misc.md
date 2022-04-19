@@ -68,3 +68,6 @@ Probably a better version than d0s'. For making C3/C4 scripts.
 #### Script Benchmarker by d0sboots, (5/13)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/955324155715264552)
 [Github Link](https://github.com/d0sboots/PerfectTower/tree/main/benchmarker)
+
+#### Simple FPS Counter by Yoshi, (1/3)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/964550897088749618)
