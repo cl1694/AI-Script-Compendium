@@ -26,6 +26,9 @@ Also supports auto tower testing.
 #### Mining script by Oreo, (1/13)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/883413756657430528)
 
+#### Mining script by Agent Rhino, (1/11)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/964853033253085275)
+
 #### Mining script by d0sboots(Turbo v2), (2/9)
 Suggested.
 
@@ -76,3 +79,8 @@ Use workers.
 Use workers.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/952444989437259786)
+
+#### Asteroid farming by NEOX(P), (1/9)
+Use workers.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/965364627611467776)
