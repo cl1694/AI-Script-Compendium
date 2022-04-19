@@ -20,8 +20,8 @@ Semi-slow Auto.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/950513616682119269)
 [Github Link](https://github.com/WellDoneOperator/PerfectTower2Adventure/tree/main)
 
-#### Adventure Full Auto by War131(Turbo v2 Opt,P), (9/17)
+#### Adventure Full Auto by War131(Turbo v2 Opt,P), (9/18)
 Fast Auto.
 
-[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/955815570496978944)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/964926144338067456)
 [Github Link](https://github.com/xWar131x/TPT2/tree/main/adventure)
