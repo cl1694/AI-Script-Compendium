@@ -48,3 +48,8 @@ Accel based.
 
 #### Software toggle by Superbobich(P), (1/18)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/956669989975359509)
+
+#### Inf Push script by Xuhybrid, (1/5)
+Accel based.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/965662561901084722)
