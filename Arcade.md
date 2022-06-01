@@ -24,4 +24,5 @@ Semi-slow Auto.
 Fast Auto.
 
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/964926144338067456)
+[Discord Link(alt version)](https://discord.com/channels/488444879836413975/783731338304946217/975487941134680164)
 [Github Link](https://github.com/xWar131x/TPT2/tree/main/adventure)
