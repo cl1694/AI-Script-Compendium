@@ -13,7 +13,7 @@ Also supports auto tower testing.
 #### Inf Phase Mining script by Fregatidae(C0), (3/18)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/860655510009020436)
 
-#### Mining script by d0sboots(Parallels, Turbo v1 Opt), (1/9)
+#### Mining script by d0sboots(Parallels,Turbo v1 Opt), (1/9)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/860848257612775434)
 [Github Link](https://github.com/d0sboots/PerfectTower/blob/main/README.md#auto-mining-script-v2)
 
@@ -61,6 +61,14 @@ Use workers.
 
 #### Mining script by Akronymus, (3/7)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959082597332418631)
+
+#### Mining script by IsrafelArisen, (1/5)
+Use workers.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/974165052548591656)
+
+#### Mining script by The4spaceconstants(Parallels,P), (3/25)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/979102295226744863)
 
 ## Asteroid Mining
 #### Asteroid farming by Sunny(C3), (3/11)
