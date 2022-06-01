@@ -30,6 +30,15 @@ Accel based.
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/959659564758888508)
 [Github Link](https://github.com/Yosh2i/AFK-Perfect-Tower-II/blob/main/README.md)
 
+#### Inf Push script by Xuhybrid, (1/5)
+Accel based.
+
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/965662561901084722)
+
+#### Era1 & Inf 1 Farm by cl1694(C4,P), (3/15)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/969106118909509702)
+[Github Link](https://github.com/cl1694/My-TPT2-scripts/blob/main/Miscellaneous/Auto%2090%20Era%20Inf/README.md)
+
 ## Others
 #### Software toggle(Inf) by Coco, (2/6-21)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/907739067851104317)
@@ -49,7 +58,12 @@ Accel based.
 #### Software toggle by Superbobich(P), (1/18)
 [Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/956669989975359509)
 
-#### Inf Push script by Xuhybrid, (1/5)
-Accel based.
+#### Simple Era disable by bluecat(P), (1/12)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/971861325196165140)
 
-[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/965662561901084722)
+#### Auto Era disable by d0sboots, (1/15)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/972040687212171274)
+[Github Link](https://github.com/d0sboots/PerfectTower#auto-era-disabler)
+
+#### Pseudo-Instant disable by IsrafelArisen, (9/2)
+[Discord Link](https://discord.com/channels/488444879836413975/850425171059933272/973059009064075284)
